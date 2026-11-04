@@ -23,3 +23,7 @@ Incluye operaciones CRUD para clientes, productos y proveedores.
 - Registro, actualización y eliminación de información.
 
 Proyecto académico para practicar PHP, MySQL y operaciones CRUD.
+
+BASE DE DATOS 
+<img width="892" height="682" alt="image" src="https://github.com/user-attachments/assets/f174cf94-c23d-4459-9ad4-c14e6bcb80e6" />
+
